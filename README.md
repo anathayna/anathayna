@@ -1,7 +1,10 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacamposs/)](https://www.linkedin.com/in/anathaynafranca/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/anadehavaiana)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/anadehavaiana)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&labelColor=dd2a7b&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
 
 ### hi there \o/
+
+
 
 <!--
 **anathayna/anathayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
