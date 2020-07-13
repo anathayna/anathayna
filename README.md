@@ -1,6 +1,7 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacamposs2)](https://github.com/anabneri)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/anadehavaiana)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&labelColor=dd2a7b&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c32aa3?style=flat-square&labelColor=c32aa3&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://instagram.com/anadehavaiana)
 
 ### hi there \o/
 
