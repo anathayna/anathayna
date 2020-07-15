@@ -1,5 +1,5 @@
 
-## print(" hi there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="vertical-align:bottom">
+## print(" hi there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" style="margin:0px 0px">
 
 ![image](https://github.com/anathayna/anathayna/blob/master/dino.gif)
 
