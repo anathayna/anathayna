@@ -1,5 +1,5 @@
 
-## print(" hi there \o/ ")
+## print(" hi there \\o/ ")
 
 ![image](https://github.com/anathayna/anathayna/blob/master/dino.gif)
 
