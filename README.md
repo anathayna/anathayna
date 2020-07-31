@@ -12,9 +12,9 @@
 
 <em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
-<em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
+<em>I like to play MOBA and platform games </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="40vw"/></em>
 
-<em>Always supporting black lives/dreams/futures matter </em>✊🏾
+<em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
