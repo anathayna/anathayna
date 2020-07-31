@@ -2,17 +2,17 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/pusheencode.gif"/>
 
-<em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+<em>iOS developer intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
 
-<em>Computer Science Student </a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="30vw"/></em>
+<em>computer science student </a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="30vw"/></em>
 
-<em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
+<em>design enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
 
-<em>Learning about everything that involves science, technology & art </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
+<em>i love science, technology, math & art  </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
-<em>MOBA & platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
+<em>platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
 
-<em>Colorful post-it notes lover </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
+<em>colorful post-it notes lover </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
