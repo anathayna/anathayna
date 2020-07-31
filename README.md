@@ -20,6 +20,9 @@
 <p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
 </em></p>
 
+<p><em>Always supporting girls can code and black lives/dreams/futures matter ✊🏾
+</em></p>
+
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
