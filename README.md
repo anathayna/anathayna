@@ -2,25 +2,25 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/pusheencode.gif"/>
 
-<p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em>
 
-<p><em>Computer Science Student </a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="30vw"/> 
-</em></p>
+<em>Computer Science Student </a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="30vw"/> 
+</em>
 
-<p><em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/> 
-</em></p>
+<em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/> 
+</em>
 
-<p><em>I love to learn about science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="35vw"/> 
-</em></p>
+<em>I love to learn about science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="35vw"/> 
+</em>
 
-<p><em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/> 
-</em></p>
+<em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/> 
+</em>
 
-<p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
-</em></p>
+<em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
+</em>
 
-<p><em>Always supporting black girls can code and black lives/dreams/futures matter ✊🏾 </em></p>
+<em>Always supporting girls can code and black lives/dreams/futures matter ✊🏾 </em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
