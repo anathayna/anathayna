@@ -20,7 +20,7 @@
 <p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
 </em></p>
 
-<em>Always supporting black girls can code and black lives/dreams/futures matter ✊🏾 </em>
+<p><em>Always supporting black girls can code and black lives/dreams/futures matter ✊🏾 </em></p>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
