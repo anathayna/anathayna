@@ -8,11 +8,11 @@
 
 <em>design enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
 
-<em>i love science, technology, math & art  </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
+<em>i love science, tech, math & art  </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
-<em>platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
+<em>platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="30vw"/></em>
 
-<em>colorful post-it notes lover </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
+<em>colorful post-it notes lover </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="50vw"/></em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
