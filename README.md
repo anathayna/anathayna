@@ -11,7 +11,7 @@
 <p><em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/> 
 </em></p>
 
-<p><em>I love to learn about science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="30vw"/> 
+<p><em>I love to learn about science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="35vw"/> 
 </em></p>
 
 <p><em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/> 
@@ -20,8 +20,7 @@
 <p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
 </em></p>
 
-<p><em>Always supporting girls can code and black lives/dreams/futures matter ✊🏾
-</em></p>
+<em>Always supporting black girls can code and black lives/dreams/futures matter ✊🏾 </em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
