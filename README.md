@@ -5,16 +5,19 @@
 <p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>Computer Science Student</a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="30vw"/> 
+<p><em>Computer Science Student </a><img src="https://github.com/anathayna/anathayna/blob/master/bmo.gif?raw=1" width="35vw"/> 
 </em></p>
 
-<p><em>Design Enthusiast</a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/> 
+<p><em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="35vw"/> 
+</em></p>
+
+<p><em>Love to learning about science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/> 
 </em></p>
 
 <p><em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/> 
 </em></p>
 
-<p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="30vw"/> 
+<p><em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/> 
 </em></p>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
