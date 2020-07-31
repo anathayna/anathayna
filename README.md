@@ -14,7 +14,7 @@
 
 <em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
-<em>Always supporting black lives/dreams/futures matter ✊🏾</em>
+<em>Always supporting black lives/dreams/futures matter </em>✊🏾
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
