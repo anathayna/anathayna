@@ -1,7 +1,7 @@
 
 ## print(" hi there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei :P</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![image](https://github.com/anathayna/anathayna/blob/master/dino.gif)
