@@ -3,6 +3,7 @@
 
 <p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/coin.gif?raw=1" width="20vw" /> fun fact: i love colorful post-its <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/happy.gif?raw=1" width="20vw" /> 
 
 ![image](https://github.com/anathayna/anathayna/blob/master/dino.gif)
 
