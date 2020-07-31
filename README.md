@@ -8,13 +8,13 @@
 
 <em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
 
-<em>Learning about everything that involves science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="35vw"/></em>
+<em>In love with: science, tech, math & art </a><img src="https://github.com/anathayna/anathayna/blob/master/love.gif?raw=1" width="35vw"/></em>
 
 <em>Talk to me about movies, animes & cartoons </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
-<em>Fun Fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
+<em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
-<em>Always supporting girls can code and black lives/dreams/futures matter ✊🏾</em>
+<em>Always supporting black lives/dreams/futures matter ✊🏾</em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
