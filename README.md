@@ -8,9 +8,9 @@
 
 <em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
 
-<em>In love with the community </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
+<em>Passionate with the community </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
-<em>MOBA and platform games lover </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
+<em>MOBA & platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
 
 <em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
