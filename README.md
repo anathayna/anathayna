@@ -8,7 +8,7 @@
 
 <em>Design Enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/enthusiast.gif?raw=1" width="30vw"/></em>
 
-<em>Passionate with the community </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
+<em>Learning about everything that involves science, technology & art </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="25vw"/></em>
 
 <em>MOBA & platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
 
