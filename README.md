@@ -6,7 +6,10 @@
 <p><em>iOS Developer Intern at <a href="http://www.enjoei.com.br">enjoei </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/> fun fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="20vw"/> 
+<p><em>fun fact: i love colorful post-its </a><img src="https://github.com/anathayna/anathayna/blob/master/happy.gif?raw=1" width="20vw"/> 
+</em></p>
+
+<p><em>computer science student</a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/> 
 </em></p>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
