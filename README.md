@@ -12,7 +12,7 @@
 
 <em>MOBA & platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/coin.gif?raw=1" width="20vw"/></em>
 
-<em>Fun Fact: I love colorful sticky notes </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
+<em>colorful sticky notes paper lover </a><img src="https://github.com/anathayna/anathayna/blob/master/nyancat.gif?raw=1" width="40vw"/></em>
 
 <!-- <img src="https://github.com/anathayna/anathayna/blob/master/dino.gif"/> -->
 
