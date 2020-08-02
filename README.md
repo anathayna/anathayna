@@ -8,7 +8,7 @@
 
 <em>design enthusiast </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/></em>
 
-<em>i love science, tech, math & art  </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/></em>
+<em>in love with science, tech, math & art  </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/></em>
 
 <em>platform games player </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="20vw"/></em>
 
