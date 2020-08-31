@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <p><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei </em></p>
+<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei </em></p>
 </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> computer science student </em>
 </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em> design enthusiast </em>
 </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & art </em>
