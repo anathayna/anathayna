@@ -6,7 +6,7 @@
 - 💻 computer science student
 - 🖼️ design enthusiast
 - 🦁 gryffindor house
-- 🌼 INFP / ♎ libra sign
+- 🌼 INFP / ♎ libra
 - ❤️ in love with science, tech, math, art and capybaras
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
