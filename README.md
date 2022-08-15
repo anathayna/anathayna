@@ -3,11 +3,11 @@
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> iOS developer at <a href="http://www.enjoei.com.br">enjoei</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30"/> <em>computer science student</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="30"/> <em>design enthusiast</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="40"/> <em>cat lover</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/flower.gif?raw=1" width="30"/> <em>mbti: infp</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/capybara.gif?raw=1" width="40"/> <em>in love with science, tech, math, art and capybaras</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif" width="30"/> <em>computer science student</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif" width="30"/> <em>design enthusiast</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif" width="40"/> <em>cat lover</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/flower.gif" width="30"/> <em>mbti: infp</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/capybara.gif" width="40"/> <em>in love with science, tech, math, art and capybaras</em></p>
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
