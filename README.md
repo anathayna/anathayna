@@ -7,8 +7,7 @@
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif" width="30"/> <em>design enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/flower.gif" width="25"/> <em>mbti: infp</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/capybara.gif" width="40"/> <em>in love with science, tech, math, art and capybaras</em></p>
-
-<p></a></em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif" width="50"/> <em></em></p>
 
 [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
