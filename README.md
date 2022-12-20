@@ -6,8 +6,8 @@
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif" width="30"/> <em>computer science student</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif" width="30"/> <em>design enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/fist.gif" width="25"/> <em>studying about anti-racism in AIs</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/capybara.gif" width="30"/> <em>in love with science, tech, art and math</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif" width="40"/> <em>(and also in cats and capybaras)</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif" width="30"/> <em>in love with science, tech, art and math</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/capybara.gif" width="40"/> <em>(and also in cats and capybaras)</em></p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://anathayna.github.io)](https://anathayna.github.io)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/anathaynafranca/)
